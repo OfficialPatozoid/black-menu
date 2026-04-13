@@ -9,7 +9,9 @@ game:GetService(“UserInputService”)
 local player = Players.LocalPlayer local playerGui =
 player:WaitForChild(“PlayerGui”)
 
-– Banco de Keys local KEYS = {}
+– Banco de Keys local KEYS = {
+    ["GS_GOSOTOSO"] = "KEY-EF1BF9C7-CD4FDBD8-2FA5ACB9"
+}
 
 – Criar GUI local gui = Instance.new(“ScreenGui”) gui.Name = “BlackMenu”
 gui.ResetOnSpawn = false gui.Parent = playerGui
