@@ -11,7 +11,7 @@ player:WaitForChild(“PlayerGui”)
 
 – Banco de Keys local KEYS = {
     ["GS_GOSOTOSO"] = "KEY-EF1BF9C7-CD4FDBD8-2FA5ACB9",
-    ["PATOZOID"] = "KEY-29850177-DFBE1964-5CB646C9"
+    ["PATOZOID"] = "KEY-189D188F-C5FB7C0B-92A22C3B"
 }
 
 – Criar GUI local gui = Instance.new(“ScreenGui”) gui.Name = “BlackMenu”
