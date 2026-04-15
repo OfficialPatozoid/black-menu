@@ -10,7 +10,6 @@ local player = Players.LocalPlayer local playerGui =
 player:WaitForChild(“PlayerGui”)
 
 – Banco de Keys local KEYS = {
-    ["GS_GOSOTOSO"] = "KEY-EF1BF9C7-CD4FDBD8-2FA5ACB9",
     ["PATOZOID"] = "KEY-B4589BD9-4ACCDEBC-14B90510"
 }
 
